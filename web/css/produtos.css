@@ -149,6 +149,10 @@
   text-transform: uppercase;
 }
 
+.orcamento_dados p {
+  margin: 10px 0 5px 0;
+}
+
 .orcamento_dados span {
   display: block;
   font-size: 18px;
@@ -156,18 +160,12 @@
   line-height: 30px;
 }
 
-.dados_email {
-  margin-bottom: 40px;
-}
-
 .orcamento_dados {
   padding-right: 60px;
 }
 
-.orcamento_dados p {
-  font-size: 14px;
-  font-family: Georgia, "Times New Roman", serif;
-  margin: 8px 0 8px 0;
+.orcamento_dados span:nth-of-type(even) {
+  margin-bottom: 30px;
 }
 
 .orcamento_dados ul li {
