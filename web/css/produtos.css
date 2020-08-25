@@ -160,12 +160,12 @@
   line-height: 30px;
 }
 
-.orcamento_dados {
-  padding-right: 60px;
-}
-
 .orcamento_dados span:nth-of-type(even) {
   margin-bottom: 30px;
+}
+
+.orcamento_dados ul {
+  padding-right: 60px;
 }
 
 .orcamento_dados ul li {
